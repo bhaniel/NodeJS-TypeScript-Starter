@@ -2,7 +2,7 @@
   "name": "typescript-node-starter",
   "version": "0.0.1",
   "description": "",
-  "author": "Balazs Szabo<balazs.szabo@888holdings.com>",
+  "author": "Haniel Bitton<bhaniel@gmail.com>",
   "license": "ISC",
   "main": "dist/main.js",
   "scripts": {
