@@ -5,7 +5,7 @@ services:
     # the name of our contianer 
     container_name: 'worker_node'
     # base image of node take 12 now
-    image: node:${NODE_VERSION}
+    image: node
     #invoke our shell script into the contianer 
     command: "sh dev-local/dev-entrypoint.sh"
     # command: [ "/bin/sh", "-c", "--", "while true; do sleep 30; done;" ]
