@@ -17,12 +17,12 @@ The main purpose of this repository is to show to show an example project setup 
 - Clone the repo
     - HTTPS 
         ```
-        git clone http://tfs.888holdings.corp:8080/tfs/DefaultCollection_2010/Architecture/_git/typescript-node-starter <project_name>
+        git clone https://github.com/bhaniel/NodeJS-TypeScript-Starter.git <project_name>
         ```
 
     - SSH
         ```
-        git clone ssh://tfs.888holdings.corp:22/tfs/DefaultCollection_2010/Architecture/_git/typescript-node-starter <project_name>
+        git clone git@github.com:bhaniel/NodeJS-TypeScript-Starter.git <project_name>
         ```
 
 - Install dependencies
@@ -55,6 +55,6 @@ The main purpose of this repository is to show to show an example project setup 
     npm run docker:test
     ```
 
-##Enjoy your Develop
+## Enjoy your Develop
 
 
